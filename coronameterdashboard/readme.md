@@ -12,7 +12,7 @@ Coronameterdashboard is a web application deployed on heruko. Its main objective
 ## Visit it
 
 ## SnapShot
-![A snapshot of the web application]
+![A snapshot of the web application](https://github.com/MohammedSaadTAHRI/CoronaTrackingDashBoard/blob/main/coronameterdashboard/snapshot.PNG)
 
 ### Link
 [FR]: https://coronameterdashboard.herokuapp.com/
