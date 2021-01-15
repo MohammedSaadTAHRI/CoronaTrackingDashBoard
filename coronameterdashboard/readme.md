@@ -3,14 +3,16 @@
 
 <h4 align="center">A DashBoard that keeps you updated  (COVID19)</h4>
 
-Foco is a cross-platform desktop app :computer: which runs in menubar.
-Foco boosts your productivity :rocket: by creating perfect productive environment.
-It has the best sounds for getting work done :raised_hands:.
+CoronaMeterDashBoard is a web app that tracks Corona cases by scraping https://www.worldometers.info/coronavirus/.
+It is a project, or rather a prototype build during a class in my university to learn webscraping and deployment using all the tools stated down below.
 
 Coronameterdashboard is a web application deployed on heruko. Its main objective is to keep you up to date on the latest COV19 news via nice visualization.
 
 
 ## Visit it
+
+## SnapShot
+![A snapshot of the web application]
 
 ### Link
 [FR]: https://coronameterdashboard.herokuapp.com/
@@ -32,4 +34,4 @@ Coronameterdashboard is a web application deployed on heruko. Its main objective
 
 ## License
 
-MIT  © Mohammed Saad TAHRI
+No license
