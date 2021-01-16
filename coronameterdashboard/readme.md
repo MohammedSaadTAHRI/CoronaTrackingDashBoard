@@ -32,6 +32,15 @@ Coronameterdashboard is a web application deployed on heruko. Its main objective
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 - [Requests](https://requests.readthedocs.io/en/master/)
 
+## Setup
+Clone this repo to your desktop or a specific folder you want to run the project on, run `pip install -r requirements.txt` to install all the dependencies.
+You might want to create a virtual environment before installing the dependencies.
+
+To run the project on your localhost, you can use `python dashboard.py` and it will launch on your localhost via the port 8050.
+
+## Deployement
+To deploy your version of the project, you can directly use your git repo to link it with Heroku, Heroku will take care of the rest.
+
 ## License
 
 No license
