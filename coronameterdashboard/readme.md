@@ -5,9 +5,7 @@
 
 CoronaMeterDashBoard is a web app that tracks Corona cases by scraping https://www.worldometers.info/coronavirus/.
 It is a project, or rather a prototype build during a class in my university to learn webscraping and deployment using all the tools stated down below.
-
-Coronameterdashboard is a web application deployed on heruko. Its main objective is to keep you up to date on the latest COV19 news via nice and modern visualizations.
-
+It is deployed on heruko. Its main objective is to keep you up to date on the latest COV19 news via nice and modern visualizations. 
 
 ## Visit it
 
