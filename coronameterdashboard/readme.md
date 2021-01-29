@@ -24,7 +24,7 @@ https://coronameterdashboard.herokuapp.com/
 - [x] No singup/login required
 
 ## Code
-`dashboard.py` contains both the scrapping code and the application. The code is documented. Whoever, for a brief recap, the application scrapes the data using BeautifulSoup then routes the data directly to the web application. The Visualizations are made with plotly and the application is built with Dash.
+`dashboard.py` contains both the scrapping code and the application. The code is documented. Whoever, for a brief recap, the application scrapes the data using BeautifulSoup then routes the data directly to the functions that build the visualizations. The Visualizations are made with plotly and the application is built with Dash.
 
 ## Built with
 - [Plotly](https://plotly.com/python/)
